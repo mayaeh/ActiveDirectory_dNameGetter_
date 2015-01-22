@@ -17,7 +17,7 @@ http://www.colordic.org/
 
 
 実行には .NetFramework 4.0 以降が必要と思われます。
-動作確認は Windows 7 x64 SP1 でしか行っていません。
+動作確認は Windows 7 x32 SP1 でしか行っていません。
 
 
 
