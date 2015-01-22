@@ -40,6 +40,12 @@
             Me.Label2.Left = 10
         End If
 
+        ' もし最前面に表示する設定が True なら設定する
+        If My.Settings.StayTopMost = True Then
+            Me.TopMost = True
+        Else
+            Me.TopMost = False
+        End If
 
         ' ##### ユーザー名・ドメイン名を取得し DirectoryService に問い合わせ、フルネームを取得する #####
 
