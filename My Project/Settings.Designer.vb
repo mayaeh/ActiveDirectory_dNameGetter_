@@ -104,7 +104,7 @@ Namespace My
         
         <Global.System.Configuration.UserScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("300")>  _
+         Global.System.Configuration.DefaultSettingValueAttribute("250")>  _
         Public Property MarginRight() As Integer
             Get
                 Return CType(Me("MarginRight"),Integer)
