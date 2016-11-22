@@ -15,7 +15,7 @@
       <Value Profile="(Default)">43</Value>
     </Setting>
     <Setting Name="MarginRight" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">300</Value>
+      <Value Profile="(Default)">250</Value>
     </Setting>
     <Setting Name="MarginBottom" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">100</Value>
