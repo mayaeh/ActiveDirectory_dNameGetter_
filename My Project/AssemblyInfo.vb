@@ -13,8 +13,8 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyTitle("fullNameGetter")> 
 <Assembly: AssemblyDescription("フルネームを取得し表示します。")> 
 <Assembly: AssemblyCompany("marimo-net")> 
-<Assembly: AssemblyProduct("fullNameGetter")> 
-<Assembly: AssemblyCopyright("Copyright ©  2015")> 
+<Assembly: AssemblyProduct("fullNameGetter")>
+<Assembly: AssemblyCopyright("Copyright (c)  marimo-net")>
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)> 
